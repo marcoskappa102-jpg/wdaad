@@ -1,0 +1,13 @@
+{
+    "resolution": 256,
+    "terrainWidth": 1000.0,
+    "terrainLength": 1000.0,
+    "terrainHeight": 600.0,
+    "terrainPosX": -255.0,
+    "terrainPosY": 0.0,
+    "terrainPosZ": -255.0,
+    "heights": [
+        0.0,
+        0.0
+    ]
+}

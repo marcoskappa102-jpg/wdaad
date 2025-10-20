@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "className": "Guerreiro",
+      "description": "Forte combatente corpo-a-corpo com alta vitalidade",
+      "baseStrength": 20,
+      "baseIntelligence": 5,
+      "baseDexterity": 12,
+      "baseVitality": 18,
+      "bonusHealthPerLevel": 15,
+      "bonusManaPerLevel": 3,
+      "bonusAttackPowerPerLevel": 3,
+      "bonusDefensePerLevel": 2,
+      "recommendedStats": "STR > VIT > DEX",
+      "playstyle": "Tank/DPS melee com alto HP e dano físico"
+    },
+    {
+      "className": "Mago",
+      "description": "Mestre das artes arcanas com devastador poder mágico",
+      "baseStrength": 5,
+      "baseIntelligence": 25,
+      "baseDexterity": 15,
+      "baseVitality": 10,
+      "bonusHealthPerLevel": 8,
+      "bonusManaPerLevel": 10,
+      "bonusAttackPowerPerLevel": 1,
+      "bonusDefensePerLevel": 1,
+      "recommendedStats": "INT > DEX > VIT",
+      "playstyle": "DPS ranged com alto dano mágico mas baixo HP"
+    },
+    {
+      "className": "Arqueiro",
+      "description": "Atirador preciso com alta velocidade de ataque",
+      "baseStrength": 12,
+      "baseIntelligence": 5,
+      "baseDexterity": 25,
+      "baseVitality": 13,
+      "bonusHealthPerLevel": 10,
+      "bonusManaPerLevel": 5,
+      "bonusAttackPowerPerLevel": 2,
+      "bonusDefensePerLevel": 1,
+      "recommendedStats": "DEX > STR > VIT",
+      "playstyle": "DPS ranged com alta velocidade e crítico"
+    },
+    {
+      "className": "Clerigo",
+      "description": "Sacerdote divino com poderes de cura e suporte",
+      "baseStrength": 8,
+      "baseIntelligence": 20,
+      "baseDexterity": 10,
+      "baseVitality": 17,
+      "bonusHealthPerLevel": 12,
+      "bonusManaPerLevel": 8,
+      "bonusAttackPowerPerLevel": 1,
+      "bonusDefensePerLevel": 2,
+      "recommendedStats": "INT > VIT > DEX",
+      "playstyle": "Suporte/Healer com boa sobrevivência"
+    }
+  ]
+}

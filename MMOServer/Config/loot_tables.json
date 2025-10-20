@@ -1,0 +1,370 @@
+{
+  "lootTables": [
+    {
+      "monsterId": 1,
+      "monsterName": "Lobo Selvagem",
+      "guaranteedGold": {
+        "min": 5,
+        "max": 15
+      },
+      "drops": [
+        {
+          "itemId": 50,
+          "itemName": "Pele de Lobo",
+          "dropChance": 0.40,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 51,
+          "itemName": "Dente de Lobo",
+          "dropChance": 0.25,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 1,
+          "itemName": "Poção de Vida Pequena",
+          "dropChance": 0.15,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 4,
+          "itemName": "Poção de Mana Pequena",
+          "dropChance": 0.10,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 50,
+      "monsterName": "Lobo",
+      "guaranteedGold": {
+        "min": 5,
+        "max": 15
+      },
+      "drops": [
+        {
+          "itemId": 10,
+          "itemName": "Espada de Ferro",
+          "dropChance": 1.0,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 50,
+          "itemName": "Pele de Lobo",
+          "dropChance": 1.0,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 51,
+          "itemName": "Dente de Lobo",
+          "dropChance": 1.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 1,
+          "itemName": "Poção de Vida Pequena",
+          "dropChance": 1.0,
+          "minQuantity": 10,
+          "maxQuantity": 100
+        },
+        {
+          "itemId": 4,
+          "itemName": "Poção de Mana Pequena",
+          "dropChance": 1.0,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 2,
+      "monsterName": "Goblin Explorador",
+      "guaranteedGold": {
+        "min": 10,
+        "max": 25
+      },
+      "drops": [
+        {
+          "itemId": 52,
+          "itemName": "Orelha de Goblin",
+          "dropChance": 0.50,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 1,
+          "itemName": "Poção de Vida Pequena",
+          "dropChance": 0.20,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 31,
+          "itemName": "Botas de Couro",
+          "dropChance": 0.05,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 20,
+          "itemName": "Armadura de Couro",
+          "dropChance": 0.03,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 3,
+      "monsterName": "Javali Raivoso",
+      "guaranteedGold": {
+        "min": 15,
+        "max": 40
+      },
+      "drops": [
+        {
+          "itemId": 53,
+          "itemName": "Presa de Javali",
+          "dropChance": 0.35,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 2,
+          "itemName": "Poção de Vida Média",
+          "dropChance": 0.25,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 5,
+          "itemName": "Poção de Mana Média",
+          "dropChance": 0.15,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 32,
+          "itemName": "Luvas de Combate",
+          "dropChance": 0.08,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 4,
+      "monsterName": "Aranha Gigante",
+      "guaranteedGold": {
+        "min": 8,
+        "max": 20
+      },
+      "drops": [
+        {
+          "itemId": 1,
+          "itemName": "Poção de Vida Pequena",
+          "dropChance": 0.30,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 4,
+          "itemName": "Poção de Mana Pequena",
+          "dropChance": 0.20,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 5,
+      "monsterName": "Lobo das Sombras",
+      "guaranteedGold": {
+        "min": 20,
+        "max": 50
+      },
+      "drops": [
+        {
+          "itemId": 50,
+          "itemName": "Pele de Lobo",
+          "dropChance": 0.60,
+          "minQuantity": 2,
+          "maxQuantity": 3
+        },
+        {
+          "itemId": 51,
+          "itemName": "Dente de Lobo",
+          "dropChance": 0.40,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 2,
+          "itemName": "Poção de Vida Média",
+          "dropChance": 0.30,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 54,
+          "itemName": "Cristal Mágico",
+          "dropChance": 0.10,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 30,
+          "itemName": "Elmo de Ferro",
+          "dropChance": 0.05,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 6,
+      "monsterName": "Orc Guerreiro",
+      "guaranteedGold": {
+        "min": 30,
+        "max": 70
+      },
+      "drops": [
+        {
+          "itemId": 2,
+          "itemName": "Poção de Vida Média",
+          "dropChance": 0.40,
+          "minQuantity": 2,
+          "maxQuantity": 3
+        },
+        {
+          "itemId": 3,
+          "itemName": "Poção de Vida Grande",
+          "dropChance": 0.20,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 54,
+          "itemName": "Cristal Mágico",
+          "dropChance": 0.15,
+          "minQuantity": 1,
+          "maxQuantity": 2
+        },
+        {
+          "itemId": 21,
+          "itemName": "Armadura de Ferro",
+          "dropChance": 0.10,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 11,
+          "itemName": "Espada de Aço",
+          "dropChance": 0.08,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 40,
+          "itemName": "Anel de Força",
+          "dropChance": 0.05,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 10,
+      "monsterName": "Rato Selvagem",
+      "guaranteedGold": {
+        "min": 2,
+        "max": 8
+      },
+      "drops": [
+        {
+          "itemId": 1,
+          "itemName": "Poção de Vida Pequena",
+          "dropChance": 0.10,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 11,
+      "monsterName": "Orc Guerreiro",
+      "guaranteedGold": {
+        "min": 30,
+        "max": 70
+      },
+      "drops": [
+        {
+          "itemId": 2,
+          "itemName": "Poção de Vida Média",
+          "dropChance": 0.40,
+          "minQuantity": 2,
+          "maxQuantity": 3
+        },
+        {
+          "itemId": 21,
+          "itemName": "Armadura de Ferro",
+          "dropChance": 0.10,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    },
+    {
+      "monsterId": 12,
+      "monsterName": "Dragão Negro",
+      "guaranteedGold": {
+        "min": 500,
+        "max": 1000
+      },
+      "drops": [
+        {
+          "itemId": 3,
+          "itemName": "Poção de Vida Grande",
+          "dropChance": 0.80,
+          "minQuantity": 5,
+          "maxQuantity": 10
+        },
+        {
+          "itemId": 54,
+          "itemName": "Cristal Mágico",
+          "dropChance": 0.70,
+          "minQuantity": 3,
+          "maxQuantity": 5
+        },
+        {
+          "itemId": 22,
+          "itemName": "Armadura de Placas",
+          "dropChance": 0.50,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 11,
+          "itemName": "Espada de Aço",
+          "dropChance": 0.40,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        },
+        {
+          "itemId": 42,
+          "itemName": "Colar de Vitalidade",
+          "dropChance": 0.30,
+          "minQuantity": 1,
+          "maxQuantity": 1
+        }
+      ]
+    }
+  ]
+}

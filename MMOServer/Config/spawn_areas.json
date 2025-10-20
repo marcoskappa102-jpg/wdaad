@@ -1,0 +1,177 @@
+{
+  "spawnAreas": [
+    {
+      "id": 1,
+      "name": "Planície dos Iniciantes",
+      "description": "Área para jogadores iniciantes (Level 1-3)",
+      "shape": "circle",
+      "centerX": 10.0,
+      "centerY": 1.0,
+      "centerZ": 10.0,
+      "radius": 25.0,
+      "maxSlope": 35.0,
+      "spawns": [
+        {
+          "monsterId": 1,
+          "monsterName": "Lobo Selvagem",
+          "count": 3,
+          "respawnTime": 30
+        },
+        {
+          "monsterId": 10,
+          "monsterName": "Rato Selvagem",
+          "count": 5,
+          "respawnTime": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Floresta dos Goblins",
+      "description": "Área infestada de goblins (Level 2-3)",
+      "shape": "rectangle",
+      "centerX": 50.0,
+      "centerY": 1.0,
+      "centerZ": 50.0,
+      "width": 40.0,
+      "length": 40.0,
+      "maxSlope": 40.0,
+      "spawns": [
+        {
+          "monsterId": 2,
+          "monsterName": "Goblin Explorador",
+          "count": 4,
+          "respawnTime": 40
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Colinas dos Javalis",
+      "description": "Território dos javalis raivosos (Level 3-4)",
+      "shape": "circle",
+      "centerX": -30.0,
+      "centerY": 1.0,
+      "centerZ": -30.0,
+      "radius": 20.0,
+      "maxSlope": 45.0,
+      "spawns": [
+        {
+          "monsterId": 3,
+          "monsterName": "Javali Raivoso",
+          "count": 2,
+          "respawnTime": 45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ninho das Aranhas",
+      "description": "Caverna infestada de aranhas (Level 2-3)",
+      "shape": "circle",
+      "centerX": 70.0,
+      "centerY": 1.0,
+      "centerZ": -20.0,
+      "radius": 15.0,
+      "maxSlope": 30.0,
+      "spawns": [
+        {
+          "monsterId": 4,
+          "monsterName": "Aranha Gigante",
+          "count": 6,
+          "respawnTime": 35
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pântano Sombrio",
+      "description": "Área perigosa com lobos das sombras (Level 4-5)",
+      "shape": "rectangle",
+      "centerX": -60.0,
+      "centerY": 1.0,
+      "centerZ": 60.0,
+      "width": 30.0,
+      "length": 30.0,
+      "maxSlope": 35.0,
+      "spawns": [
+        {
+          "monsterId": 5,
+          "monsterName": "Lobo das Sombras",
+          "count": 2,
+          "respawnTime": 50
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Acampamento Orc",
+      "description": "Base dos orcs guerreiros (Level 5-6)",
+      "shape": "circle",
+      "centerX": 100.0,
+      "centerY": 1.0,
+      "centerZ": 100.0,
+      "radius": 35.0,
+      "maxSlope": 40.0,
+      "spawns": [
+        {
+          "monsterId": 11,
+          "monsterName": "Orc Guerreiro",
+          "count": 3,
+          "respawnTime": 60
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Covil do Dragão",
+      "description": "BOSS AREA - Dragão Negro (Level 10+)",
+      "shape": "circle",
+      "centerX": 0.0,
+      "centerY": 1.0,
+      "centerZ": 150.0,
+      "radius": 25.0,
+      "maxSlope": 45.0,
+      "spawns": [
+        {
+          "monsterId": 12,
+          "monsterName": "Dragão Negro",
+          "count": 1,
+          "respawnTime": 300
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Área Mista - Iniciantes",
+      "description": "Zona com vários tipos de monstros fracos",
+      "shape": "rectangle",
+      "centerX": -50.0,
+      "centerY": 1.0,
+      "centerZ": 0.0,
+      "width": 50.0,
+      "length": 50.0,
+      "maxSlope": 40.0,
+      "spawns": [
+        {
+          "monsterId": 1,
+          "monsterName": "Lobo Selvagem",
+          "count": 2,
+          "respawnTime": 30
+        },
+        {
+          "monsterId": 2,
+          "monsterName": "Goblin Explorador",
+          "count": 2,
+          "respawnTime": 40
+        },
+        {
+          "monsterId": 10,
+          "monsterName": "Rato Selvagem",
+          "count": 3,
+          "respawnTime": 20
+        }
+      ]
+    }
+  ]
+}
